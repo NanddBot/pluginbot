@@ -11,22 +11,6 @@
 // thank you to MikeBot Dev Team
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
-global.util = require('util')
-//global.fs = require('fs')
-//global.fetch = require('node-fetch')
-//global.chalk = require('chalk')
-global.os = require('os')
-//global.moment = require('moment-timezone')
-global.axios = require('axios')
-global.cheerio = require('cheerio')
-global.scrape = require('./lib/scrape')
-global.xfr = require('xfarr-api')
-global.yzu = require('yuzzu-api')
-//global.dhn = require('dhn-api')
-global.hxz = require('hxz-api')
-global.clp = require('caliph-api')
-global.bs = require('@bochilteam/scraper')
-global.baileys = require('@adiwajshing/baileys')
 let fs = require('fs')
 let fetch = require('node-fetch')
 let moment = require('moment-timezone')
